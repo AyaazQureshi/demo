@@ -1,3 +1,3 @@
 # demo
 first git repo
-author: ayaaz
+author: ayaaz (problem solver)git
